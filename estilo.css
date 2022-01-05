@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(89, 118, 214);
+    font: normal 15 pt Arial;
+}
+header{
+    color:white;
+    text-align: center;/*alinha texto ao centro da pagina*/
+
+}
+section{
+    
+    background:white;
+    border-radius: 10px;/*Torna as bordas arredondadas*/
+    padding: 15px;/*espacamento interno entre o texto e a borda*/
+    width: 500px; /*largura da div*/
+    /*height: 200px;altura*/
+    text-align: center;
+    box-shadow: 5px 5px 10px black;
+    margin: auto;
+}
+
+footer{
+    font-style: italic;
+    color: white;
+    text-align: center/*alinha texto ao centro da pagina*/;
+}
